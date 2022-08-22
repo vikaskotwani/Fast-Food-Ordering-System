@@ -1,6 +1,6 @@
-# Realtime pizza app using Node-express-mongo-socket.io
+# Fast Food Ordering app using Node-express-mongo-socket.io
 
-![Realtime Pizza app](https://github.com/codersgyan/realtime-pizza-app-node-express-mongo/blob/master/Screenshot%202020-09-21%20at%2023.03.06.png?raw=true)
+![Fast Food Ordering ](https://github.com/vikaskotwani/Fast-Food-Ordering-System/blob/master/Screenshot_Project.png)
 
 
 
